@@ -10,8 +10,8 @@ I'm passionate about all aspects of software development, but I particularly enj
 
 
 ## Projects
-- [Project One](https://github.com/EdWrayy/TetrECS): A Tetris-like block game developed fully in Java.
-- [Project Two](https://github.com/EdWrayy/Algorithm-VIsualizer): A sorting-algorithm visualizer developed with PyGame.
+- [TetrECS](https://github.com/EdWrayy/TetrECS): A Tetris-like block game developed fully in Java.
+- [Sorting Algorithm Visualizer](https://github.com/EdWrayy/Algorithm-VIsualizer): A sorting-algorithm visualizer developed with PyGame.
 
 ## Contact
 - [Email](mailto:edjwray@icloud.com)
