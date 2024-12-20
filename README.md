@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ed 👋
 
-<!--
-**EdWrayy/edwrayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a second year Computer Science student at the University of Southampton.
+I'm passionate about all aspects of software development, but I particularly enjoy working with and manipulating large data sets.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, Python
+- **Tools:** Git, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- [Project One](https://github.com/EdWrayy/TetrECS): A Tetris-like block game developed fully in Java.
+- [Project Two](https://github.com/EdWrayy/Algorithm-VIsualizer): A sorting-algorithm visualizer developed with PyGame.
+
+## Contact
+- [Email](mailto:edjwray@icloud.com)
+- [LinkedIn](https://www.linkedin.com/in/edjwray/)
