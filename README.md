@@ -1,7 +1,7 @@
 # Hi there, I'm Ed 👋
 
 ## About Me
-I'm a second year Computer Science student at the University of Southampton.
+I'm a second year Computer Science student at the University of Southampton.  
 I'm passionate about all aspects of software development, but I particularly enjoy backend development.
 
 ## Skills
