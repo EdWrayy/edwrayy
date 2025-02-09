@@ -2,10 +2,10 @@
 
 ## About Me
 I'm a second year Computer Science student at the University of Southampton.  
-I'm passionate about all aspects of software development, but I particularly enjoy backend development.
+I'm passionate about software engineering, data science, machine learning and low level development.
 
 ## Skills
-- **Languages:** Java, Python
+- **Languages:** Java, Python, C, Haskell
 - **Tools:** Git, Maven
 
 
