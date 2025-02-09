@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a second year Computer Science student at the University of Southampton.  
-I'm passionate about software engineering, data science, machine learning and low level development.
+I'm passionate about software engineering, data science, machine learning and low-level development.
 
 ## Skills
 - **Languages:** Java, Python, C, Haskell
