@@ -8,12 +8,14 @@
 ---
 
 ## 🚀 Featured Projects
+- 🔹 [**SLURM Scheduler Simulator**](https://github.com/EdWrayy/SLURM-Scheduler-Simulator)  
+  Designed a simulator for the Iridis X HPC to evaluate scheduling heuristics.
+
 - 🔹 [**Bare-Metal HTTPS Flashcard Display (C on RP2040)**](https://github.com/EdWrayy/Pico-W-Flashcard-Display)  
-  Wrote TLS handshake + certificate validation from scratch, streaming live data to an OLED display under tight resource limits.
+  Implemented TLS handshake + certificate validation on the Raspberry Pi Pico, streaming live data to an OLED display under tight resource limits.
 
 - 🔹 [**Distributed File System (Java)**](https://github.com/EdWrayy/DistributedFileSystem)  
   Multi-threaded storage with replication, rebalancing, and fault tolerance.  
-  Achieved **99.99% simulated availability** under failure conditions.
 
 - 🔹 [**PCQL – CSV Query Language (Haskell)**](https://github.com/EdWrayy/QueryingLanguageInterpreter)  
   Custom parser + functional query language supporting SQL-like joins, maps, and Cartesian products on CSV data.
