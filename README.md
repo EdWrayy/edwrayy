@@ -1,6 +1,6 @@
 # Hi, I'm Ed 👋  
 
-🎓 Computer Science student at the **University of Southampton** (First Class performance).  
+🎓 Computer Science student at the **University of Southampton**.  
 ⚡ Passionate about **distributed systems and high-performance infrastructure**.  
 🔬 Building projects from **bare-metal microcontrollers** to **large-scale distributed file systems**.  
 💡 Always learning new paradigms - from **functional programming in Haskell** to **concurrent Go pipelines**.  
